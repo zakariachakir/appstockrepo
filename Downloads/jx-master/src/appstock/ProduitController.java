@@ -103,7 +103,7 @@ public class ProduitController implements Initializable {
         myCombobox.getItems().clear();
 
         myCombobox.getItems().addAll(
-                "Product",
+                "Product Code",
                 "Reference",
                 "Deseignation",
                 "Shelf",

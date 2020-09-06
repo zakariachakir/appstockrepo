@@ -154,14 +154,14 @@
 					<textElement>
 						<font fontName="Serif" size="14" isBold="true"/>
 					</textElement>
-					<textFieldExpression><![CDATA[$P{totaltopay}  ]]></textFieldExpression>
+					<textFieldExpression><![CDATA[$P{totaltopay}]]></textFieldExpression>
 				</textField>
 				<textField>
 					<reportElement x="346" y="40" width="89" height="20" uuid="b5b46f30-df6b-4bae-b070-6f745d534e70"/>
 					<textElement>
 						<font fontName="Serif" size="14" isBold="true"/>
 					</textElement>
-					<textFieldExpression><![CDATA[$P{paied}  ]]></textFieldExpression>
+					<textFieldExpression><![CDATA[$P{paied}]]></textFieldExpression>
 				</textField>
 				<textField>
 					<reportElement x="173" y="79" width="160" height="20" uuid="51d0f975-102e-4005-bb89-7f93e6aed5e7"/>
@@ -175,7 +175,7 @@
 					<textElement>
 						<font size="14" isBold="true"/>
 					</textElement>
-					<textFieldExpression><![CDATA[$P{reste}  ]]></textFieldExpression>
+					<textFieldExpression><![CDATA[$P{reste}]]></textFieldExpression>
 				</textField>
 				<staticText>
 					<reportElement style="SubTitle" x="208" y="139" width="162" height="22" forecolor="#009999" uuid="2399097f-6dd5-4335-9155-368a2cbb2934"/>
